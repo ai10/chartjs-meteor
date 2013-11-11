@@ -30,3 +30,7 @@ The minified JS file has been slightly modified from the official version to fix
 [Chart.js Code](https://github.com/nnnick/Chart.js)
 
 *Thanks to [AdaptiveLab](https://github.com/adaptivelab) for the smart package template*
+=======
+chartjs
+=======
+
